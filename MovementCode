@@ -1,0 +1,6 @@
+// velocity for gravity
+vely = 0
+//Speed of the player
+normalSpeed = 5
+//slow down horizontally
+hspeed *= .9
